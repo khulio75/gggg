@@ -1,0 +1,799 @@
+#EXTINF:-1,الحدث العربية
+http://selevision9881-i.akamaihd.net/hls/live/219184/98811/1.m3u8
+#EXTINF:-1,MBC 1
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+#EXTINF:-1,MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
+#EXTINF:0,MBC Drama+
+http://selevision9887-i.akamaihd.net/hls/live/219289/98873/1.m3u8 
+#EXTINF:-1,MBC Masr    
+http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
+#EXTINF:-1,MBC Masr +2
+http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
+#EXTINF:-1,MBC 2
+http://selevision9880-i.akamaihd.net/hls/live/219174/98801/1.m3u8
+#EXTINF:-1,MBC 4
+http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8 
+#EXTINF:0,MBC Max
+http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
+#EXTINF:0,MBC Action
+http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
+#EXTINF:0,Funoon
+http://selevision9883-i.akamaihd.net/hls/live/219206/98832/1.m3u8
+#EXTINF:-1,Abu Dabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1,Abu Dabi
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+#EXTINF:-1,Abu Dabi Emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:-1,Panorama Food 
+http://selevision9881-i.akamaihd.net/hls/live/219187/98814/1.m3u8
+#EXTINF:-1,Al-Nahar TV
+http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
+#EXTINF:-1,Al-Nahar Drama
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+#EXTINF:-1,AlKahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
+#EXTINF:-1,AlKahera Wal Nas2
+http://yooanime.com/stream/AlKaheraWalNas2_HD/AlKaheraWalNas2_High.m3u8?user=sglsnghbv1jfyg3u4efw1hp2ie55&session=9cad92b8b1017a6d20bb9e4f31862ea8626b7a837e70af4718b331965ac8a22faf5705b7f2d581fe9a68b107246894bece761f813f951576b045facd5433eda6de2a9a15d4e21705&hlsid=HTTP_ID_5868369&group_id=-1&starttime=20170212T222336.105327
+#EXTINF:-1,Sada AL Balad Drama
+http://yooanime.com/stream/SadaAlBaladDrama_HD.m3u8?user=sglso20ifnuzl0crme55nfcsquen&session=7d8968b5715218b1c14a78c327c966404ba8795efddfcdc81d299129f0a203c0797799c3069fe3e9d13fb87e0fd0bb813bf1b8f40878d8887877540ac86c69d399ccabe0417fa996
+#EXTINF:-1,CBC
+http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
+#EXTINF:-1,CBC Drama
+http://selevision9883-i.akamaihd.net/hls/live/219205/98831/1.m3u8
+#EXTINF:-1,CBC Extra
+http://selevision9891-i.akamaihd.net/hls/live/219328/98911/2.m3u8
+#EXTINF:-1,Musalsalat HD
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
+#EXTINF:-1,AL-HAYAT 2
+http://selevision9884-i.akamaihd.net/hls/live/219262/98846/1.m3u8
+#EXTINF:-1,Moga Comedy
+http://yooanime.com/stream/MogaComedy_HD/MogaComedy_High.m3u8?user=sglszbhpww55nbtdm3ioxzzt2w55&session=bc96ea27fb35712579f10752a925e0c584e4534826e96797646bc7f428ea841d080a48f0451c730bbbda0a4bf5126c5f76b9a7d3ec7dc8c173aaf6c88e2d2dce&hlsid=HTTP_ID_5869876&group_id=-1&starttime=20170212T222336.893580
+#EXTINF:-1,Syria      
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1,MTV Lebanon
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:-1,AL Jaded
+http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
+#EXTINF:-1,OTV Lebanon
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/otv_lebanon
+#EXTINF:-1,LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1,LDC
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1,Future TV
+http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
+#EXTINF:-1,Al-Sharqiah
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1,Al-Sharqiah News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1,NRT arabic
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1, AL-Arabiya
+http://selevision9888-i.akamaihd.net/hls/live/219306/98889/1.m3u8
+#EXTINF:-1, AL-Arabiya AL-Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,AlJazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
+#EXTINF:-1,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Al-Jazeera Document
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-1,National Geographic
+http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:-1,RT Today Arabic
+http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:-1,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-1,Quest Arabia
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+#EXTINF:-1,AL HURRA
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,NOORSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/chunklist_w838829348.m3u8
+#EXTINF:-1,Al Fady TV
+http://hqstream.net:1935/alfadytvlive/alfadytvlive/playlist.m3u8
+#EXTINF:-1,ROTANA Cinema
+http://selevision9896-i.akamaihd.net/hls/live/219378/98961/1.m3u8
+#EXTINF:-1,ROTANA AFLAM
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:-1,panorama Cinema
+http://yooanime.com/stream/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=sglsyotf0x55b1wz51ejvhz4tivx&session=cdcdd6e2efee51d6b6bef9f735769a1deb36a1414f268967c4304c435cbf1729f3782e34750f0604177bc181d65fb6bc091b1e60be5a5f7130214be9d95bbe9f&hlsid=HTTP_ID_5870669&group_id=-1&starttime=20170212T222336.943596
+#EXTINF:-1,Cairo Cinema
+rtmp://www.teledunet.net:1935/live?idu=web-tvde01_70071010380/cairo_cinema
+#EXTINF:-1,Cinema 1
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+#EXTINF:-1,Al Nahar Cinema
+http://yooanime.com/stream/AlNaharMovies_HD/AlNaharMovies_High.m3u8?user=sglszjzhcw55wnoabx551p5zufqg&session=408db0c39f4547612ccd845ada9dbdf2013068befb61c78efbf0fcfcf9af05d0697151b5012b7ada82c62ca0eb0b8eddc383488a12446a55b8727cd341c09f9c&hlsid=HTTP_ID_5862332&group_id=-1&starttime=20170212T222336.107328
+#EXTINF:-1,Time Cinema
+http://yooanime.com/stream/TimeCinema_HD/TimeCinema_High.m3u8?user=sglsiij0vj55ccyseh45twp5xp45&session=dd3b98441abbe70baa5a04a3c607dc9c6282ce5851c815cb646bc7f428ea841dcfad8176d20ac79de7165d393a28c096d2b908843a36ed7280810266b910d11c&hlsid=HTTP_ID_5864798&group_id=-1&starttime=20170212T222336.947597
+#EXTINF:-1,Time Drama
+http://yooanime.com/stream/TimeDrama_HD/TimeDrama_High.m3u8?user=sgls4fb4pf45pdqkys55jblikkec&session=dd1f06a611f6ca83cde31bc090cba4549cc3d37b5154f88fc29f640453272fe69a958d32047a62615ac7f0b384e3b933a35eb4a591413b4986f89faf8a4c50ff&hlsid=HTTP_ID_5866174&group_id=-1&starttime=20170212T222337.007616
+#EXTINF:-1,Time Comedy
+http://yooanime.com/stream/CairoComedy_HD.m3u8?user=sgls2innv4afgugnce55rnn4yn55&session=3ef8cf268cc60ebff9586a67cb80c8459f2c1ebec76017e3d952ae1b58c24a624ab38cf5595334188cc6c103bc1d3334486008a21baeb8be6fe193c922d8c404
+#EXTINF:-1,Panorama Drama
+
+#EXTINF:-1 group-title="Aflam" ,**[COLOR blue]----       Dubai     ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+#EXTINF:-1 group-title="Aflam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Onetv_Logo_UAE.png/150px-Onetv_Logo_UAE.png",Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/abu_dhabi_tv_ae.png" group-title="Aflam", Abu Dhabi TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aflam",Abu Dhabi AlEmarat 2
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:-1 group-title="Aflam",Abu Dhabi 2
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+ 
+ 
+#EXTINF:-1 group-title="Aflam" tvg-logo="http://static.elcinema.com/images/channels/160px/1284.png ",Dubai Drama 2
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+#EXTINF:-1 group-title="Aflam"tvg-logo="http://2.bp.blogspot.com/-tg6QOa91VKo/T-Dezc2rPLI/AAAAAAAAABE/YUiTkyOEAnc/s1600/sama_dubai.jpg ",Sama Dubai TV
+http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1 group-title="Aflam" tvg-logo="http://oklivetv.com/wp-content/uploads/media/noor-dubai-tv-logo.jpeg",Noor Dubai TV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
+ 
+#EXTINF:-1 group-title="Sport",Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/chunklist_b1200000.m3u8
+ 
+#EXTINF:-1 group-title="Aflam"  tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Zaman-TV_o.jpg ",Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8?v=1771722032
+ 
+#EXTINF:-1 tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Dubai-Sports-3-TV-United-Arab-Emirates.gif ",dubai sports tv
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000_DVR.m3u8
+
+
+
+#EXTINF:-1 group-title="lebanon" ,**[COLOR blue]----    lebanon   ------[/COLOR]**
+skip
+#EXTINF:-1 group-title="lebanon" tvg-logo="https://www.seevii.com/stb/item//tv_live1/454.png",LBC
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
+#EXTINF:-1 group-title="lebanon",  tvg-logo="http://nettech.se/logo/al_jadeed.png", Al Jadeed
+http://selevision9886-i.akamaihd.net/hls/live/219282/98866/1.m3u8
+#EXTINF:-1 group-title="lebanon", tvg-logo="http://nettech.se/logo/murr_tv_lb.png", MTV
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+#EXTINF:-1 group-title="lebanon",Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+#EXTINF:-1 group-title="lebanon" tvg-logo="https://www.seevii.com/stb/item//tv_live1/213.png", AL MAYADEEN
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.seevii.com/stb/item//tv_live1/396.png",FUTURE_TV
+http://selevision9889-i.akamaihd.net/hls/live/219311/98894/1.m3u8
+#EXTINF:-1  tvg-logo="https://www.seevii.com/stb/item//tv_live1/456.png",LDC
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1  tvg-logo="https://www.seevii.com/stb/item//tv_live1/207.png",Al Manar
+http://live3.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Aflam" ,**[COLOR blue]----       Nile    ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF:-1 tvg-logo="http://step-tv.com/logo/ar/nile-comedy.jpg" group-title="Aflam",AR:NILE_COMEDY
+rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=comedy
+ 
+#EXTINF:-1 tvg-logo="http://step-tv.com/logo/ar/nile-drama.jpg" group-title="Aflam",AR:NILE_DRAMA
+rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Drama
+ 
+#EXTINF:-1 tvg-logo="http://step-tv.com/logo/ar/nile-cinema.jpg" group-title="Arabe",AR:NILE_CINEMA
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+ 
+#EXTINF:-1 group-title="Aflam" tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nile_life_eg.png",AR: Nile Life
+rtmp://livestreaming5.onlinehorizons.net/NTNNileLife playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Life
+ 
+#EXTINF:-1 group-title="Aflam",NILE culture
+rtmp://livestreaming5.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=Culture
+ 
+#EXTINF:-1 tvg-id="" tvg-name="AR: NILE_SPORT" tvg-logo="http://3.bp.blogspot.com/-qk5gYdgePCY/VAh_Pad0rwI/AAAAAAAABzY/c5zWqI-1jVE/w1200-h630-p-nu/Nile%2BSport-Live-Online.png" group-title="Sport",AR: NILE_SPORT
+rtmp://livestreaming5.onlinehorizons.net/NTNNileSport playpath=livestream swfUrl=http://niletc.tv/player/player.swf live=1 pageUrl=http://niletc.tv/stream.php?ch=sport
+ 
+
+#EXTINF:-1 group-title="Palestine" ,**[COLOR blue]----      Palestine   ------[/COLOR]**
+skip
+#EXTINF:-1 group-title="Palestine" tvg-logo="https://csa.dishnetwork.com/images/logos/ALYWM.PNG",Al Yaum TV (Palestine)
+http://live.paltoday.tv:1935/paltv/live/playlist.m3u8
+#EXTINF:-1 group-title="Palestine" tvg-logo="https://apkplz.com/storage/images/air/AlFajerTV/300/alfajer-tv-live.png",Alfajer TV (Palestine)
+http://vstream2.hadara.ps:1935/unlimitedalfajer/alfajertv/playlist.m3u8
+#EXTINF:-1 group-title="Palestine" tvg-logo="http://palestinian-tv.com/wp-content/uploads/2016/03/Hi-res-icon-.png",Palestine TV
+rtmp://46.43.64.190:1935/pbc/pbc
+#EXTINF:-1 group-title="Palestine" tvg-logo="http://www.sat-address.com/f/pics/Stations/PSC-Palestine-Live_o.jpg",Palestine Mubasher
+rtmp://46.43.64.190:1935/pbclive/pbclive
+#EXTINF:-1 group-title="Palestine" tvg-logo="http://www.bss-me.com/files/image/Clients/Update/Al-Quds%20TV.jpg",Al-Quds (Palestine)
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Palestine" tvg-logo="https://lh3.googleusercontent.com/vMw7ukqfJXnz_8rT1J-mhRiIrEMjVZdhlxf_-WwhIqiID2KAJfj-IkCVS9nRnrVtVYE=w170",Aqsa TV (Palestine)
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 group-title="Palestine"  tvg-logo="http://www.sat-address.com/f/pics/Stations/Musawa-Channel_o.jpg", Musawa TV
+rtmp://46.43.64.190:1935/musawa/musawa
+#EXTINF:-1,Al Qaseem
+rtmp://82.212.74.2:1935/live/7206
+ 
+#EXTINF:-1 group-title="Syria" ,**[COLOR blue]----     Syria     ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF:-1 group-title="Syria" ,Syria
+http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
+##http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1 group-title="Syria" ,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/BratuMarian.m3u8
+#EXTINF:-1 group-title="Syria" ,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8
+#EXTINF:-1 group-title="Syria",maan
+http://vstream2.hadara.ps:1935/maan/maan_1/Zona-Live-TV.m3u8
+ 
+#EXTINF:-1 group-title="Syria" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Syrian_Drama_TV_Logo.png ",Syria drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Syria"tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png ",Sama Syria
+rtmp://sama-tv.net/live playpath=samatv swfUrl=http://www.addounia.tv/live/player.swf live=true timeout=15
+pageUrl=http://www.addounia.tv/index.php?page=live
+ 
+#EXTINF:-1 group-title="Syria" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH7gHSHB_XMl-yYJk52KBN_h8OnA4GH-Zqnt-SVruqqJ2pXGcSUw",Syria Sa
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#
+EXTINF:-1 group-title="Syria" tvg-logo="http://ulango.tv/uploads/channels/50122/logo_syria%20news%20tv.png",Syria news
+rtmp://82.137.248.16/Snews/SnewsLive1
+#EXTINF:-1 group-title="Syria" tvg-logo=http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png,Nabd Syrien
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+ 
+
+
+
+#EXTINF:-1 group-title="Kids" ,**[COLOR blue]----       Kids     ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF:-1 group-title="Kids", Saudi Ajyal
+http://selevision9881-i.akamaihd.net/hls/live/219191/98818/1.m3u8
+#EXTINF:-1 group-title="Kids", 3ABN Kids
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-b.m3u8
+ 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.seevii.com/stb/item//tv_live1/655.png",Carton Network
+http://selevision9882-i.akamaihd.net/hls/live/219197/98824/1.m3u8
+#### http://199.167.151.237:1935/live//dub_1_ch1335/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id=" tvg-logo="https://www.seevii.com/stb/item//tv_live1/671.png" group-title="Kids",Space TOON
+http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png",Majid Kids TV
+http://9884.akamai.live.selevision.com/live/9884/98847/master.m3u8
+###http://81.230.200.187:1967/live/ahmad/ahmad/402.ts
+ 
+ 
+#EXTINF:-1 group-title="Kids" tvg-logo="http://schoenerfernsehen.net/uploads/posts/2013-05/1369254031_super_rtl_live.jpg",SUPER RTL
+http://84.22.46.188/play/a013
+#EXTINF:-1 group-title="Kids" tvg-logo="http://wall--art.com/wp-content/uploads/2014/09/disney-channel-logo-png.png",Disney Channel
+https://delivestream-lh.akamaihd.net/i/live_1@320996/master.m3u8
+ 
+ 
+ 
+#EXTINF:-1 group-title="Kids"tvg-logo="http://do.team-mediaportal.com/2013/12/183007_kika.png" group-title="DE",KiKA
+http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
+### http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=kika
+#EXTINF:-1,Disney Channel
+http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_woce098v/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZGU=&playSessionId=98f1169b-ca3b-40b7-c94b-4d3b24a8e299
+#EXTINF:-1  tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/nickelodeon_cis.jpg", NICKELODEON
+skip
+
+#EXTINF:-1 group-title="Other" ,**[COLOR blue]----       Other     ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+#EXTINF:-1 group-title="Other",Al Dafrah
+http://live.aldafrah.tv:1935/live/myStream3/.m3u8
+#EXTINF:-1 group-title="Other",Sharjah
+http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Orient News
+http://ls01.orienths.org/hls-live/livepkgr/_definst_/liveevent/live_ios.m3u8
+#EXTINF:-1  tvg-logo="http://libyatv.com/libyatvlogo_bgblack.PNG" group-title="ARABIC",AR: LIBYA
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1 group-title="News",Citruss TV
+http://live.citrusstv.com/live/watch/chunklist_w2069397388.m3u8
+#EXTINF:-1 group-title="Sport",Sharjah Sports
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
+#EXTINF:-1 group-title="Other",CNA (Algeria)
+http://str81.creacast.com:80/cna/live.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Other",NRT 2 (Iraq)
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/chunklist_w1757825996.m3u8
+#EXTINF:-1 group-title="Other",Al Forat (Iraq)
+http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
+#EXTINF:-1 group-title="Other",Taghier (Jordan)
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1 tvg-logo="http://www.livep2ptvstream.com/logo/kuwait.jpg" group-title="ARABIC",AR: KUWAIT 1
+http://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream/chunklist_w716966488.m3u8
+#EXTINF:-1 group-title="Other",KTV5 Ethraa (Kuwait)
+http://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream/chunklist_w2026955947.m3u8
+#EXTINF:-1 group-title="Other",KTV6 AL Arabi (Kuwait)
+http://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream/chunklist_w908056813.m3u8
+#EXTINF:-1 group-title="Other",KTV7 Al Majlis (Kuwait)
+http://stream03.fasttelco.net:1935/live/_definst_/ktv7_480.stream/chunklist_w1118445916.m3u8
+#EXTINF:-1 group-title="Other",Al Eqtisadiyah
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="Other",Halab Today (Syria)
+http://streaming.tootvs.com:1935/8010/8010/chunklist_w311743950.m3u8
+#EXTINF:-1 group-title="Other",Almasirah TV (Yemen)
+http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
+#EXTINF:-1 group-title="Other",Al Ekhbariya (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other",EG Misr 25 (Egypt)
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1 group-title="Other",Al-Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="News", Al-hurra Iraq
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other" tvg-logo="https://s1-ssl.dmcdn.net/HP1iT/200x200-aKE.jpg",SalamTV
+http://htv.mada.ps:8888/salamtv/salamtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other" tvg-logo="https://www.seevii.com/stb/item//tv_live1/917.png",Eimarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/Aloula.jpg",Syria Al Oula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/images/syria_drama.jpg",Syria Drama TV
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/sat.jpg",Syria Sat
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.afghanistantv.net/images/tamadon_tv.png",Tamadon
+http://tamadonlive.nanocdn.com:1935/live/tamadon256/master.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/talaqie.png",Talaqie
+#EXTINF:0 tvg-logo="http://www.medi1tv.com/ar/img/logo2.png",Medi1
+http://medi1stream.genious.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nessma.tv/images/logo.png",Nessma
+http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.rtv.gov.sy/images/nour.jpg",Nour
+rtmp://82.137.248.21:1935/Nour/NourLive1
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/omantv_general.png",Oman TV 1
+rtmp://38.96.148.30:1935/live/omantv1
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png",Oman TV 2
+rtmp://38.96.148.30:1935/live/omantv2
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/omantv_general.png",Oman TV 3
+rtmp://38.96.148.30:1935/live/omantv3
+#EXTINF:-1 tvg-logo="http://part.gov.om/part/english/images/omantv_general.png",Oman TV 4
+rtmp://38.96.148.30:1935/live/omantv4
+#EXTINF:-1,Tunis Nessma
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+#EXTINF:-1,Tunis Zeituna
+http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8?cid=18648453&id=gmswf
+ 
+#EXTINF:-1,Al Qaseem rtmp
+rtmp://82.212.74.2:1935/live/7206
+#EXTINF:-1,Algeria 3
+http://199.167.151.237:1935/live/dub_1_ch1085/playlist.m3u8
+#EXTINF:-1,Algeria 4
+http://199.167.151.237:1935/live/dub_1_ch1192/playlist.m3u8
+#EXTINF:-1,Algeria 5
+http://199.167.151.237:1935/live/dub_1_ch1193/playlist.m3u8
+#EXTINF:-1,Algeria An-Nahar TV
+http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
+#EXTINF:-1,anb iraq
+http://streaming.i-sat.tv:1935/live/anb.stream_360p/playlist.m3u8
+ 
+#EXTINF:-1,NRT arabic
+http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
+#EXTINF:-1,altaghier
+http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
+#EXTINF:-1,alrasheed
+http://streamer11.elementssys.com:8080/alrashid/alrashid_1mbps/playlist.m3u8
+#EXTINF:-1,trt arabic
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+ 
+#EXTINF:-1 group-title="Quran",**[COLOR green] -----   Quran  ------ [/COLOR]**
+ https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+#EXTINF:-1 group-title="Quran",Mecca
+rtmp://streamer11.elementssys.com:1935/mecca
+ 
+#EXTINF:-1 ,**[COLOR blue]----       Saudia     ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF:-1 tvg-logo="http://entworld.net/wp-content/uploads/2016/03/LaayouneTV-1.png",Al Aoula
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="Other",Saudi 2 (Saudi Arabia)
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://alekhbariya.net/sites/all/themes/ekhbariya/images/logo.png",Al Ekhbariya
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
+#EXTINF:-1,(Saudi Arabia) Channel HD
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
+#EXTINF:0 tvg-logo="http://www.ajyaltv.sa/templates/stvdefault/images/logo.png",Ajyal
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.eqtisadiyatv.sa/templates/stvdefault/images/logo.png",Al Eqtisadiya
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel9/_definst_/live/stream1.m3u8
+#EXTINF:-1 tvg-logo="http://www.thaqafiyatv.sa/templates/stvdefault/images/logo.png",Al Thakafiyah
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.alrayyan.qa/Style%20Library/ARMM/Images/Our-Companies_tvlogo.png",Al Rayyan
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/alrayyan/ls_satlink/b_,264,528,828,.m3u8
+ 
+
+#EXTINF:-1 group-title="Indian" ,**[COLOR blue]----     Indian    ------[/COLOR]**
+https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF:-1  group-title="Indian" tvg-logo="https://www.seevii.com/stb/item//tv_live1/695.png",Imagine Movies
+http://selevision9890-i.akamaihd.net/hls/live/219325/98908/master.m3u8
+#EXTINF:-1  group-title="Indian" tvg-logo="https://www.seevii.com/stb/item//tv_live1/636.png",ZEE ALWAN
+http://selevision9882-i.akamaihd.net/hls/live/219198/98825/master.m3u8
+#EXTINF:-1  group-title="Indian" tvg-logo="https://www.seevii.com/stb/item//tv_live1/102.png", B4U+Plus
+http://selevision9882-i.akamaihd.net/hls/live/219196/98823/1.m3u8
+#EXTINF:-1 #EXTINF:-1 group-title="Indian" tvg-logo="https://www.seevii.com/stb/item//tv_live1/456.png",LDC.
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+#EXTINF:-1 #EXTINF:-1 group-title="Indian" tvg-logo="https://www.seevii.com/stb/item//tv_live1/1133.png", B4U Aflam
+http://selevision9882-i.akamaihd.net/hls/live/219195/98822/1.m3u8
+ 
+#EXTINF:-1,Music Now
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
+
+ 
+ 
+#EXTINF:0 group-title="Kids,Baraem
+rtmp://1681.proiptv.net/iptv/ch0050?code=173557762965249
+#EXTINF:0 group-title="Kids,Baynounah TV
+rtmp://1681.proiptv.net/iptv/ch0799?code=173557762965249
+#EXTINF:0 group-title="Kids,Dar Al Qamar
+rtmp://1681.proiptv.net/iptv/ch0732?code=173557762965249
+#EXTINF:0 group-title="Kids,Jeem SD
+rtmp://1681.proiptv.net/iptv/ch0131?code=173557762965249
+#EXTINF:0 group-title="Kids,KARAMEESH
+rtmp://1681.proiptv.net/iptv/ch0199?code=173557762965249
+#EXTINF:0 group-title="Kids,KIDZINIA
+rtmp://1681.proiptv.net/iptv/ch0731?code=173557762965249
+#EXTINF:0 group-title="Kids,KOKKY TV
+rtmp://1681.proiptv.net/iptv/ch0736?code=173557762965249
+#EXTINF:0 group-title="Kids,MBC 3
+rtmp://1681.proiptv.net/iptv/ch0032?code=173557762965249
+#EXTINF:-1  tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mickey-Channel_o.jpg" group-title="Kids",MICKEY CHANNEL
+rtmp://1681.proiptv.net/iptv/ch0788?code=173557762965249
+#EXTINF:0 group-title="Kids,MODY KIDS
+rtmp://1681.proiptv.net/iptv/ch0717?code=173557762965249
+#EXTINF:0 group-title="Kids,NOON KIDS
+rtmp://1681.proiptv.net/iptv/ch0482?code=173557762965249
+#EXTINF:0 group-title="Kids,SEMSEM
+rtmp://1681.proiptv.net/iptv/ch0445?code=173557762965249
+#EXTINF:0 group-title="Kids,SPACETOON ARABIC
+rtmp://1681.proiptv.net/iptv/ch0049?code=173557762965249
+#EXTINF:0 group-title="Kids,TAHA
+rtmp://1681.proiptv.net/iptv/ch0748?code=173557762965249
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/i/4ITx97dzj8wk11mcmXciKA/mq1.jpg" group-title="Kids",AR: TOYOR ALJANAH
+rtmp://1681.proiptv.net/iptv/ch0073?code=173557762965249
+#EXTINF:-1 tvg-logo="http://www.islambox.com/Images/Products/Channels/mainlogo/toyorbaby-logo.png",TOYOR BABY
+skip
+#EXTINF:0 group-title="Kids,KARAMEESH
+http://evolive-tv.com:8000/live/picman/1221313148/239.m3u8
+#EXTINF:0,3ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://secure.clientportal.link/picons/babytv.png" group-title="United Kingdom",Baby TV UK
+http://37.187.175.177:8000/live/guo001/688966/2215.ts
+#EXTINF:-1 group-title="Kids",Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://secure.clientportal.link/picons/babytv.png" group-title="United Kingdom",Baby TV UK
+http://37.187.175.177:8000/live/guo001/688966/2215.ts
+#EXTINF:-1 group-title="Kids",Al Jazeera Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8
+ 
+#EXTINF:-1,Kids Al Jazeera kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream3/masterPlaylist.m3u8
+#EXTINF:-1,Kids KSA Ajial 1
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
+#EXTINF:-1,Kids KSA Ajial 2
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+#EXTINF:-1,Kids Majid ts 1
+http://81.230.200.187:1967/live/ahmad/ahmad/402.ts
+#EXTINF:-1,Kids Majid ts 2
+http://g-ip.ddns.net:8000/live/28637288237427/1593574628/2821.ts
+#EXTINF:-1,Kids Mickey ts
+http://37.187.175.177:8000/live/an1296/618419/286.ts
+#EXTINF:-1,Kids Mody ts
+http://37.187.175.177:8000/live/an1296/618419/1607.ts
+
+#EXTINF: -1 group-title="Deutsch" ,**[COLOR blue]----       Deutsche   ------[/COLOR]**
+ https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+ 
+#EXTINF: -1 group-title="Deutsch",ORF 1
+http://becha-tv.ddns.net:8000/live/bilel_orange/gUqW1o9JHl/1464.ts
+ 
+#EXTINF: -1 group-title="Deutsch",ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q6a/orf.sdp/playlist.m3u8
+#EXTINF: -1 group-title="Deutsch",ORF 3
+http://apasfiisl.apa.at/ipad/orf3_q6a/orf.sdp/playlist.m3u8
+#EXTINF: -1 group-title="Deutsch",ORF Sport +
+http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
+ 
+ 
+#EXTINF:0,tagesschau 24 (Ger)
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,TecTime TV (Ger)
+http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream_hbb/playlist.m3u8
+#EXTINF:0,DAF (Ger)
+http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/chunklist_w1422058425.m3u8
+#EXTINF:0,Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:0,Deutsche Welle (DE)
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+#EXTINF:0,EuroNews Deutsch
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:0,NDR (Ger)
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_hh@119223/master.m3u8
+#EXTINF:0,NDR Germany
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:0,NDR HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8
+#EXTINF:0,W24 Wien
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+#EXTINF:0,360 North
+http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
+#EXTINF:0,3ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-b.m3u8
+ 
+#EXTINF: -1 group-title="Deutsch"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/VOX_(TV_channel).png",VOX
+http://84.22.46.188/play/a018
+#EXTINF: -1 group-title="Deutsch"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/VOX_(TV_channel).png",VOX
+http://80.25.87.6:9970/stream/channelid/1584947218
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/800px-RTL_HD_Logo.svg.png",RTL
+http://84.22.46.188/play/a016
+#EXTINF: -1 group-title="Deutsch"  tvg-logo="http://senderlogos.images.dvbdata.com/302x190_w/41.png",RTL2
+http://84.22.46.188/play/a017
+#EXTINF: -1 group-title="Deutsch" tvg-logo="http://www.imfernsehen.de/logos/hr/786.png" group-title="DE",RTL II You
+http://rtl2ingest1-i.akamaihd.net/hls/live/225448/cbcyoumain/cbcyoumainstream1_.m3u8
+#EXTINF: -1 group-title="Deutsch"  tvg-logo="http://www.atlantisforschung.de/images/Servus_TV_-_Logo.jpg",SERVUS TV AT
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&regloriae=on
+#EXTINF: -1 group-title="Deutsch" tvg-logo="http://www.kabelmax.tv/files/3sat.png" group-title="DE",3sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8?dw=0
+#EXTINF: -1 group-title="Deutsch" tvg-logo="http://www.erstebankliga.at/images/pages/ebel_home/sponsoren_mainbody/servus_tv.png" group-title="DE",ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
+#EXTINF: -1 group-title="Deutsch" tvg-logo="http://blogs.okto.tv/files/Okto-Logo-schwarz1.jpg",Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/zenoiptv.m3u8
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://netzpolitik.org//wp-upload/deutsche-welle-dwlogo-print-1.png" group-title="DE",Deutsche Welle
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/tirol%20tv.png",TirolTV
+http://lb.hd-livestream.de:1935/live/TirolTV/zenoiptv.m3u8
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/3sat%20hd.png",3SAT
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+ 
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/16/N-tv_Logo_2011.svg/320px-N-tv_Logo_2011.svg.png",ntv
+http://p.live.fra.n-tv.de/hls-live/ntvlive/ntvlive_1500.m3u8
+#EXTINF: -1 group-title="Deutsch",Tectime TV (1080p)
+http://tectime.iptv-playoutcenter.de:1935/tectime/tectime.stream/playlist.m3u8
+#EXTINF: -1 group-title="Deutsch",Augsburg TV  
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1 tvg-logo="" group-title="Deutsch",AUSTRIA 24 TV  
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF: -1 group-title="Deutsch",Kronehit TV
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+#EXTINF: -1 group-title="Deutsch", group-title="News",EURONEWS De
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF: -1 group-title="Deutsch",ALEX-BERLIN 568*320
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF: -1 group-title="Deutsch",Donau TV ***laufft mit enigma2
+rtmp://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_2 swfUrl=http://flowcenter2.flowworks.de/channelmanager/templates/default/template/jwplayer/jwplayer.flash.swf pageUrl=http://archiv.donautv.com/wdata/embed/donau-tv-livestream.html?autoplay=0
+#EXTINF: -1 group-title="Deutsch",EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF: -1 group-title="Deutsch",TV Oberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1855878409.m3u8
+#EXTINF: -1 group-title="Deutsch",ELBEKANAL SCHÖNEBECK
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF: -1 group-title="Deutsch",OK Dessau
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF: -1 group-title="Deutsch",OK Merseburg
+rtmp://62.113.210.250/medienasa-live/ok-merseburg_high
+#EXTINF: -1 group-title="Deutsch",OK Wernigerode
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high
+#EXTINF: -1 group-title="Deutsch",Punktum Südharz
+rtmp://62.113.210.250/medienasa-live/punktum_high
+#EXTINF: -1 group-title="Deutsch",TV Halle 720*576
+http://62.113.210.250/medienasa-live/tvhalle_high/hasbahca.m3u8
+#EXTINF: -1 group-title="Deutsch", tvg-id="daserste.de" tvg-logo="609281.png", Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF: -1 group-title="Deutsch",hr
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3128_av-p.m3u8?sd=10&rebase=on
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_m%C3%BCnchen.tv.gif",Muenchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/chunklist_w1585276943.m3u8
+#EXTINF: -1 group-title="Deutsch",muenchen tv 500kb/s
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/hasbahca.m3u8
+#EXTINF: -1 group-title="Deutsch",NDR Schleswig-Hol.
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_sh@119225/index_1992_av-p.m3u8
+#EXTINF: -1 group-title="Deutsch",Ndr
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/3PO/Senderlogos/master/tectime%20tv.png",Tectime
+http://178.248.241.121/iptv/tectime.ts
+#EXTINF: -1 group-title="Deutsch",ARD
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF: -1 group-title="Deutsch",BADEN TV
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1 tvg-logo="" group-title="News",EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/320px-Tagesschau24-2012.svg.png",TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF: -1 group-title="Deutsch",WDR
+http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8
+#EXTINF: -1 group-title="Deutsch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/320px-Das_Erste_2014.svg.png",Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News",N24
+http://bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/index.m3u8
+#EXTINF: -1 group-title="Deutsch",RTS TV Salzburg HD
+http://80.237.191.228:1935/live/RTS2015/zenoiptv.m3u8
+#EXTINF: -1 group-title="Deutsch",Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+ 
+ 
+#EXTINF:-1 group-title="sky",**[COLOR blue]----      sky ------[/COLOR]**
+ https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+#EXTINF:-1 group-title="sky",Sky Action HD
+http://rts-tv-service.webhop.biz:7664/live/Robertobenzimmer/wu7duszdhxz/220.m3u8
+#EXTINF:-1 group-title="sky",Sky Comedy
+http://rts-tv-service.webhop.biz:7664/live/Robertobenzimmer/wu7duszdhxz/221.m3u8
+#EXTINF:0,Sky Action
+rtmp://1681.proiptv.net/iptv/ch0411?code=173557762965249
+#EXTINF:0,Sky Atlantic
+rtmp://1681.proiptv.net/iptv/ch0402?code=173557762965249
+#EXTINF:0,Sky Cinema
+rtmp://1681.proiptv.net/iptv/ch0401?code=173557762965249
+#EXTINF:0,Sky Comedy
+rtmp://1681.proiptv.net/iptv/ch0412?code=173557762965249
+#EXTINF:0,Sky Emotion
+rtmp://1681.proiptv.net/iptv/ch0413?code=173557762965249
+ 
+ 
+ 
+#EXTINF:-1 ,**[COLOR blue]----       MIX Channell     ------[/COLOR]**
+ https://www.youtube.com/channel/UCMvlYOoN-Jyc8JDIJ0o10Bg
+#EXTINF:0,Deutsche Welle (Eng)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:0,Deutsche Welle (USA)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,Deutsche Welle Arabia (Germany)
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:0,EuroNews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+#EXTINF:0,Europa Plus (Ru)
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
+#EXTINF:0,Eurosport EN
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8
+#EXTINF:0,Eurosport EN 1000
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,Eurosport EN 1800
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0,Eurosport FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,Eurosport FR 1000
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8
+#EXTINF:0,Eurosport FR 1800
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Fano TV (Ita.)
+http://live.streamcaster.net:1935/live/fanotv/sansar.m3u8
+#EXTINF:0,France 2 FTA
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,France 24 (EN)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,France 24 (FR)
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0,France24 ENG
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
+#EXTINF:0,Qatar Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0,AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:0,AMGTV
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist.m3u8
+#EXTINF:0,BBC Arabia
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,BBC World News
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,EuroNews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+#EXTINF:0,Europa Plus (Ru)
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/playlist.m3u8
+#EXTINF:0,Eurosport EN
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8
+#EXTINF:0,Eurosport EN 1000
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,Eurosport EN 1800
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:0,Eurosport FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,Eurosport FR 1000
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1000.m3u8
+#EXTINF:0,Eurosport FR 1800
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Fano TV (Ita.)
+http://live.streamcaster.net:1935/live/fanotv/sansar.m3u8
+#EXTINF:0,France 2 FTA
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:0,France 24 (EN)
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,France 24 (FR)
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:0,France24 ENG
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
+#EXTINF:0,Macedonia TV HD
+http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
+#EXTINF:0,Nickelodeon (Gr)
+http://stream.ssh101.com:1935/live/nickelteamgreece/playlist.m3u8
+#EXTINF:0,Ocko (Cz)
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
+#EXTINF:0,Ocko Express (Cz)
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
+#EXTINF:0,Ocko Gold (Cz)
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+#EXTINF:0,QVC 1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:0,QVC 2
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:0,QVC Beauty
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:0,QVC Style
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:0,Ru.TV
+http://live.rmg.cdnvideo.ru/rmg/rmg.sdp/playlist.m3u8
+#EXTINF:0,Russia 8 FTA
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:0,Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0,Sfera TV
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:0,Telezuri Suisse
+http://rtmp.infomaniak.ch/livecast/telebielinguech/hasbahca.m3u8
+ 
+ 
+#EXTINF:0,360 North
+http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
+#EXTINF:0,3ABN KIDS
+http://moiptvus-lh.akamaihd.net:80/i/kidslive_1@328343/index_800_av-b.m3u8
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0,AMAZING
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+#EXTINF:0,AMGTV
+http://telvuehls_t02027-i.akamaihd.net/hls/live/213119/T02027-amgtv2/playlist.m3u8
+#EXTINF:0,Andalucia TV (Spa.)
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,ANT1
+http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
+#EXTINF:0,ARG CANAL 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0,Argentina 2 FTA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Argentina 6 FTA
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,Astra TV (Gr)
+http://www.astratv.gr:8090/hls/livestream.m3u8
+#EXTINF:0,BBC World News
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,Bloomberg
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:0,Bloomberg TV
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+#EXTINF:0,Bloomberg TV Asia-Pacific
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M24K.m3u8
+#EXTINF:0,Bloomberg TV UK
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:0,Bloomberg TV US
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M18K.m3u8
+#EXTINF:0,Bloomberg US
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0,Bolivia 2 FTA
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+#EXTINF:0,Brazil 1 FTA
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+#EXTINF:0,Brazil 4 FTA
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+#EXTINF:0,BRT1 (Tur.)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:0,BRT2 (Tur.)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:0,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,C5N Argentina
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:0,Canada 6 FTA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:0,CBS NEWS
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:0,Chile 5 FTA
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/sat.m3u8
+#EXTINF:0,China 2 FTA
+http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/HasBahCa.m3u8
+#EXTINF:0,China 8 FTA
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,ad emarat
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+#EXTINF:-1,ad drama
+http://adtv.ercdn.net/addrama/addrama_360p.m3u8
+http://yooanime.com/stream/PanoramaDrama_HD/PanoramaDrama_High.m3u8?user=sglssd5x3vuelpbumi45qikyl455&session=31d5a5d4c90b4cc0ec5b72d92b2e84d565e7516e7be94f80fbf0fcfcf9af05d0260f51a41e972521a9aca76483fb729d7c217c1a207f1830ab498b2e904ff7f5&hlsid=HTTP_ID_5871488&group_id=-1&starttime=20170212T222336.943596
